@@ -1,0 +1,54 @@
+body{
+
+    background-color:#E9967A;
+    font-weight: 500;
+
+}
+ .container .head h1{
+   font-size: 80px;
+   font-weight: 700;
+   color:#000;
+   margin-bottom: 5%;
+       font-family: 'Oswald', sans-serif;
+
+}
+
+.container .head h3{
+    font-size: 35px;
+    font-weight: 400;
+    color:#000;
+    margin-bottom: 5%;
+ }
+ .container .head span{
+   color: #dadaff;
+ }
+ button {
+    width: 250px;
+    height: 80px;
+    background-color: #dadaff;
+    color: black;
+    border: 1px solid black;
+    cursor:default !important;
+    transition: all 1s;
+    border: 1px solid #dadaff;
+}
+button:hover{
+    background-color: #000;
+    border: 1px solid #000;
+    color:#dadaff ;
+}
+.container .head p{
+    font-size: 35px;
+    font-weight: 400;
+    color:#000;
+    margin-top: 3%;
+
+
+}
+
+
+
+
+
+
+
